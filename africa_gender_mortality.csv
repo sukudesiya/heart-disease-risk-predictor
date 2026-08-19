@@ -1,0 +1,13 @@
+country_code,gender,year,mortality_rate
+EGY,Female,2021,21.4
+EGY,Male,2021,30.8
+ETH,Female,2021,17.2
+ETH,Male,2021,16.4
+GHA,Female,2021,19.7
+GHA,Male,2021,24.9
+KEN,Female,2021,17.8
+KEN,Male,2021,18.3
+NGA,Female,2021,16.9
+NGA,Male,2021,18.5
+ZAF,Female,2021,24.7
+ZAF,Male,2021,20.1

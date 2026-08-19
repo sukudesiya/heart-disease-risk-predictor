@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pip install requests
+pip install plotly
